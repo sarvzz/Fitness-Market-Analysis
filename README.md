@@ -1,8 +1,12 @@
-# Fitness Studio Market Analysis: Exploring Global and National Workout Trends
+# Fitness Studio Market Analysis: Exploring Global Workout Trends
 
 ## Overview
 
 This project analyzes global and national interest in fitness-related keywords using data from Google Trends. It aims to identify peak interest periods, regional preferences, and keyword popularity to support the growth of digital fitness services. The analysis focuses on identifying high-demand areas for virtual home workouts and expanding the studio's offerings effectively.
+
+<div align="center">
+  <img src="gym-weights.jpg" alt="Gym Weight Image" width="600">
+</div>
 
 ---
 
