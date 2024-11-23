@@ -1,4 +1,4 @@
-# Fitness Studio Market Analysis: Exploring Global Workout Trends
+# Fitness Market Analysis: Exploring Global Workout Trends
 
 ## Overview
 
